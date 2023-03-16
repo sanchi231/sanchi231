@@ -4,6 +4,9 @@
 
 - 📫 How to reach me - check out my profile - https://sanchi231.github.io/portfolio/
 
+- 👩🏻‍💻 Leetcode Profile - https://leetcode.com/sanchi231/
+
+
 <!---
 sanchi231/sanchi231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
